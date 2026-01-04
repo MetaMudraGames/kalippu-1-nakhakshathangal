@@ -26,8 +26,6 @@ KALIPPU is a series of interactive MetaDramasthat run inside Large Language Mode
 You face ancient grudges. Ten breaths.
 One chance to rewrite a centuries-old verdict.
 
-║
-
 ║   Episode 1: Face a Sorcerer and a Yakshi.
 
 ║   Episode 2: (Coming Soon)
