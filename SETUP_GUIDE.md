@@ -15,7 +15,7 @@ This guide explains how to configure **Kalippu 1: Nakhakshathangal** as a playab
 * **Account:** A Google Account with access to **Gemini Advanced** (recommended for Gems) or standard Gemini.
 * **Files:** You need the files from this repository:
     * `GEM_INSTRUCTIONS.md` (The Logic)
-    * `KALIPPU_1_COMPONENTS.md` (The Knowledge/Art)
+    * `GEM_KNOWLEDGE.md` (The Knowledge/Art)
 
 ---
 
@@ -38,7 +38,7 @@ This guide explains how to configure **Kalippu 1: Nakhakshathangal** as a playab
 
 1.  Look for the **"Knowledge"** section in the Gem editor.
 2.  Click **"Upload files"** (or Add Source).
-3.  Upload the file `KALIPPU_1_COMPONENTS.md`.
+3.  Upload the file `GEM_KNOWLEDGE.md`.
     * *Note: If you cannot upload files, you can copy the content of this file and paste it at the very bottom of the "Instructions" field instead.*
 
 ### Step D: Save

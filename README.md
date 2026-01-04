@@ -109,7 +109,7 @@ You must prove him wrong.
 ## Quick Start
 
 ```bash
-# 1. Open the KALIPPU_1_COMPONENTS.md file in this repo
+# 1. Open the GEM_KNOWLEDGE.md file in this repo
 
 # 2. Copy the content (ASCII art, HUDs, and Script)
 
